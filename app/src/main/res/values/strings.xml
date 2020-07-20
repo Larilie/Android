@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dietario</string>
+    <string name="dietario">Dietario</string>
+    <string name="name">Name</string>
+    <string name="nombre">Nombre</string>
+    <string name="login">Login</string>
+    <string name="configuracion">Configuración</string>
+    <string name="action_exit">Exit</string>
+    <string name="Password">Contraseña</string>
+    <string name="Usuario">Usuario</string>
+    <string name="fecha_inicial">Fecha Inicial</string>
+    <string name="volver">Volver</string>
+    <string name="siguiente">siguiente</string>
+    <string name="principal">principal</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="repetir_contrase_a">Repetir Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="email">Email</string>
+    <string name="crear">Crear</string>
+    <string name="subir_foto_perfil">Subir Foto Perfil*</string>
+    <string name="subir_imagen">Subir Imagen</string>
+    <string name="subir_foto">Subir Foto</string>
+    <string name="desayuno">Desayuno</string>
+    <string name="colacion1">Colacion 1</string>
+    <string name="almuerzo">Almuerzo</string>
+    <string name="colacion2"> Colacion 2 </string>
+    <string name="fecha">Fecha</string>
+</resources>

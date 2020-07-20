@@ -1,0 +1,2 @@
+rootProject.name='Dietario V2'
+include ':app'
